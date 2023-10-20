@@ -42,6 +42,12 @@ Here you can find some of my open source and pet-projects.
 | [Big Trip](https://github.com/stasikrus/travel) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | Vanilla JavaScript (ES6), Chart.js, Flatpickr.js, Webpack |
 | [Kekstagram](https://github.com/stasikrus/kekstagram) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES5) |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 <p align='center'>
    <a href="https://www.codewars.com/users/stasikrus/"><img height="30" src="https://www.codewars.com/users/stasikrus/badges/micro"></a>
    <a href="https://t.me/stanislav_prom">
