@@ -2,7 +2,7 @@ name: Generate GIF
 on:
   push:
     branches:
-      - main  
+      - main  # или имя вашей основной ветки
 
 jobs:
   generate-gif:
@@ -10,6 +10,11 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16
 
     - name: Generate GIF and SVG
       uses: Platane/snk@v3
