@@ -30,17 +30,6 @@ Here you can find some of my open source and pet-projects.
 - **State management:** Redux / Redux Toolkit;
 - **Testing:** Jest, React Testing Library;
 
-### 🎓 Currently learning:
-- Node.js;
-- SQL, MongoDB;
-
-### 💻 Some of my open source projects:
-
-| Project name        | Description          | Technologies  |
-| ------------- | ------------- | ----- |
-| [Six Cities](https://github.com/stasikrus/six-cities) | App for travelers who don't want to overpay for accommodation. Choose from one of six popular cities for traveling and get an up-to-date list of rental offers. Detailed information about the accommodation, displaying the property on the map, as well as the service's succinct interface will help quickly choose the optimal offer. | TypeScript, React, Redux, Jest|
-| [Big Trip](https://github.com/stasikrus/travel) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | Vanilla JavaScript (ES6), Chart.js, Flatpickr.js, Webpack |
-| [Kekstagram](https://github.com/stasikrus/kekstagram) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES5) |
 
 
 ### 🐍 Activity:
